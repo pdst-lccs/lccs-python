@@ -1,0 +1,9 @@
+http://www.rte.ie/news/rss/news-headlines.xml
+https://www.apple.com/main/rss/hotnews/hotnews.rss
+http://www.siliconrepublic.com/feeds/
+https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/2643123
+
+https://www.rte.ie/news/rss/business-headlines.xml
+http://www-03.ibm.com/press/ie/en/rssfeed.wss?keyword=null&maxFeed=&feedType=RSS&topic=all
+
+
