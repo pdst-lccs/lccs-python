@@ -1,0 +1,601 @@
+﻿Contents
+Introduction	4
+Senior Cycle	5
+The Experience of Senior Cycle	6
+Leaving Certificate Computer Science	8
+Rationale	8
+Aim	8
+Objectives	8
+Related Learning	9
+Early Childhood	9
+Primary School	9
+Junior Cycle	10
+Senior Cycle	10
+Further Study	11
+Society and Community	11
+Education for Sustainable Development	12
+Structure of Leaving Certificate Computer Science	13
+Strand 1: Practices and Principles	13
+Strand 2: Core Concepts	13
+Strand 3: Computer Science in Practice	13
+Computer Science Key Skills	16
+Information processing	17
+Critical and creative thinking	17
+Communicating	17
+Working with others	17
+Being personally effective	18
+Teaching and Learning	19
+Learning applied through Practical Tasks	19
+Differentiation	20
+Differentiation through the learning outcomes of the specification	20
+Differentiation in teaching and learning	21
+Differentiation in assessment	21
+Time allocation	21
+Strands and Learning Outcomes	22
+Assessment	30
+Assessment for certification	30
+Structure of assessment for certification	31
+End-of-course examination	31
+End-of-course assessment criteria	32
+Coursework assessment	33
+Coursework assessment criteria	34
+Assessment programming language	35
+Leaving Certificate Grading	36
+Reasonable Accommodations/Inclusion	36
+
+
+
+
+
+ 
+Introduction
+Computer Science is the study of computers and algorithmic processes. Leaving Certificate Computer Science includes how programming and computational thinking can be applied to the solution of problems, and how computing technology impacts the world around us. 
+The specification is constructed into 3 strands, whose learning outcomes are interwoven. The 3 strands are:
+1.	Practices and Principles
+2.	Core Concepts
+3.	Computer Science in Practice
+Students will learn:
+	The Practices and Principles of Computer Science, such as computational thinking, computers and society, and creative design.
+	How to analyse problems in computational terms and understand concepts such as abstraction, logic, algorithms, computer systems, data representation and evaluation. 
+	Programming languages and how to read, write, test and modify computer programs.
+	The process of designing computational artefacts such as web pages, digital animations, simulations, games, apps and robotic systems.
+	The ethical, historical, environmental and technological aspects of Computer Science, and how it impacts on the social and economic development of society.
+
+The role of programming in computer science is similar to that of practical work in the other subjects – it provides motivation, and a context within which ideas are brought to life. Students learn programming by solving problems through computational thinking processes and through practical applications such as applied learning tasks.
+The Leaving Certificate Computer Science specification is designed for all students. It applies to many aspects of students’ lives and is therefore relevant to a wide range of student interests. It is situated within the context of Senior Cycle education.
+ 
+Senior Cycle
+The objectives of Leaving Certificate Computer Science are well aligned with the vision and principles of senior cycle education. Learners in senior cycle are approaching the end of their time in school and are focusing on the directions they would like to take in their future lives. Senior cycle plays a vital role in helping learners to address their current needs as resourceful, confident, engaged and active young adults and in preparing them for life in a changing economic and social context (figure 1).
+Senior cycle is founded on a commitment to educational achievement of the highest standard for all students, commensurate with their individual abilities. To support students as they shape their own future, there is an emphasis on the development of knowledge and deep understanding; on students taking responsibility for their own learning; on the acquisition of key skills; and on the processes of learning. The broad curriculum, with some opportunities for specialisation, supports continuity from junior cycle and sets out to meet the needs of students, some of whom have special educational needs, but all of whom share a wide range of learning interests, aptitudes and talents.
+Curriculum components at senior cycle promote a balance between knowledge and skills, and the kinds of learning strategies relevant to participation in, and contribution to, a changing world where the future is uncertain.
+The Experience of Senior Cycle
+The vision of senior cycle (figure 2.) sees the learner at the centre of the educational experience. That experience will enable students to be resourceful, to be confident, to participate actively in society, to build an interest in learning, and develop an ability to learn throughout their lives.
+This vision of the learner is underpinned by the values on which senior cycle is based and it is realised through the principles that inform the curriculum as it is experienced by students in schools. The curriculum, made up of subjects and courses, embedded key skills, clearly expressed learning outcomes, and supported by a range of approaches to assessment, is the vehicle through which the vision becomes a reality for the learner.
+At a practical level, the provision of a high quality educational experience in senior cycle is supported by:
+•	effective curriculum planning, development, organisation and evaluation
+•	teaching and learning approaches that motivate and interest students, that enable them to progress, that deepen and apply their learning, and that develop their capacity to reflect on their learning
+•	professional development for teachers and school management that enables them to lead curriculum development and change in their schools
+•	a school culture that respects students, that encourages them to take responsibility for their own learning over time, and that promotes a love of learning.
+Senior cycle education is situated in the context of a broader education policy that focuses on the contribution that education can make to the development of the learner as a person and as a citizen. It is an education policy that emphasises the promotion of social cohesion, the growth of society and the economy, and the principle of sustainability in all aspects of development.
+
+
+ 
+Leaving Certificate Computer Science
+Rationale
+The accelerated expansion of computing technologies and Artificial Intelligence into all of our lives means students need to understand the principles of computer science more now than at any other time. It is necessary for all students to understand the ethical and social role of computers in society. Computer Science is the foundation of this change and so the study of Computer Science at Leaving Certificate has become highly relevant to almost all aspects of modern life, and to every career choice. Computer Science is the foundation, Information Technology is the application and Digital Literacy is the implication of computing technologies. Computational thinking is one of the most fundamental skills acquired through the study of Computer Science. It shares the characteristics of other sciences, such as problem solving, abstraction and logical reasoning. However computational thinking involves the implementation of solutions using automation, programming and computer systems. Students studying this subject will gain both thinking and practical skills that are valuable well beyond the Computer Science classroom and are applicable in many contexts. 
+Aim
+Leaving Certificate Computer Science aims to develop and foster the learner’s creativity and problem solving, along with their ability to work both independently and collaboratively. Students will apply the fundamental practices and concepts of computer science and develop an appreciation of the diverse role of computing technology in society and the environment in which they live. Studying Computer Science will nurture students’ interests and passions and empower them to engage confidently and actively with the world.
+Objectives
+The objectives of Leaving Certificate Computer Science are to enable students to:
+•	develop an understanding of how computing technology presents new ways to address problems, and to use computational thinking to analyse problems and to design, develop and evaluate solutions
+•	read, write, test, and modify computer programs
+•	develop an understanding of how computers work; the component parts of computer systems and how they interrelate, including software, data, hardware, communications, and users
+•	appreciate the ethical and social implications relating to use of computing technology and information and identify the impact of technology on personal life and society
+•	understand how information technology has changed over time and the effects these changes may have on education, the workforce, and society
+•	evaluate the accuracy, relevance, appropriateness, comprehensiveness, and bias of online information sources
+•	work independently and collaboratively, communicate effectively, and become responsible, competent, confident, reflective, and creative users of computing technology.
+
+Related Learning
+Leaving Certificate Computer Science builds on the knowledge, attitudes and broad range of transferable skills that stem from the student’s educational experience at early childhood, primary and post-primary junior cycle. Computational thinking is a problem-solving methodology that can be automated and transferred across all disciplines. It allows us to solve problems, design systems, and understand the power and limits of human and machine intelligence. Computational thinkers use a set of core concepts to process and analyse data and create real and virtual artefacts.
+Students who can think computationally are better able to conceptualise, understand and use computer-based technology, and so are better prepared for today’s world and the future.
+Early Childhood
+Aistear, the early childhood curriculum framework, celebrates early childhood as a time of wellbeing and enjoyment where children learn from experiences as they unfold. The theme of Exploring and Thinking is about children making sense of the things, places and people in their world by interacting with others, playing, investigating, questioning, and forming, testing and refining ideas. The theme of Communicating is about children sharing their experiences, thoughts, ideas, and feelings with others with growing confidence and competence in a variety of ways and for a variety of purposes.
+Primary School
+The integrated programme of Social, Environmental and Scientific Education (SESE) at Primary school provides opportunities for children to actively explore and investigate the world around them from a human, social and cultural perspective. A scientific approach to investigations fosters the development of important skills, concepts and knowledge through which children can observe, question, investigate, understand and think logically about living things and their environments, materials, forces, everyday events and problems. The knowledge and skills acquired may be applied in designing and making activities in which children perceive a need to create or modify elements of their environments. Through their investigations, children develop informed, critical and scientific perspectives that acknowledge the importance of founding judgements on a respect for facts, accuracy and reason. 
+Computer Science builds on language skills developed at primary level. Through language, students learn to use appropriate sequencing, tense, and vocabulary to tell and retell stories and personal and procedural narratives of increasing complexity. They learn to use topic-specific language to give information, to explain and to justify their ideas and to predict and reflect upon actions, events and processes relating to real and imaginary contexts. Language skills developed at primary level will help students of Computer Ccience to appreciate the importance of the correct use of language, and appreciate just how powerful words and language are in the context of social media.
+The Primary Mathematics curriculum aims to provide children with a language and a system through which to analyse, describe, illustrate, model and explain a wide range of experiences, make predictions, and solve problems. Leaving Certificate Computer Science builds on these skills, as it supports students to think and communicate quantitatively and spatially, to solve problems, and to recognise situations where mathematics can be applied.
+Junior Cycle
+Many of the Statements of Learning at junior cycle relate strongly to Leaving Certificate Computer Science, especially those statements focused on problem solving, design, communication, and understanding the role and contributions of technology in society. In addition, the Key Skills required for successful learning by students across the curriculum at junior cycle are relevant for Leaving Certificate Computer Science. These are: 
+	Being Literate
+	Managing Myself 
+	Staying Well 
+	Managing Information and Thinking 		Being numerate
+	Being creative 
+	Working with others
+	Communicating
+Many junior cycle subjects and short courses have close links with Computer Science, particularly Mathematics, Science, CSPE, and the short courses in Coding and Digital Literacy. 
+Senior Cycle
+Many senior cycle subjects have close links with Computer Science. Computational Thinking is a thought process (or a human thinking skill) that uses analytic and algorithmic approaches to formulate, analyse and solve problems. Whilst the alignment of Computer Science with the STEM subjects is obvious, the strategies learned in Computer Science also relate to learning in other subjects. For example, Computer Science shares similarities with language learning, as aspects such as pattern recognition, syntax, textual analysis and argument formation are relevant to both fields of study. Computer Science provides a context for students to develop metacognitive skills which will support them as they take responsibility for their own learning.
+Further Study
+Students live in a technologically-rich world.  Leaving Certificate Computer Science will provide students with the knowledge and skills that will help them to understand current computer technology and prepare them for emerging technologies. A foundation in this discipline will introduce students to the excitement and opportunities afforded by this growing and dynamic field, as well as preparing them for a range of rewarding careers.
+Leaving Certificate Computer Science incorporates a broad range of transferable and trans-disciplinary skills such as problem solving, logical thinking, and creative design. It also promotes skills of synthesis, evaluation, communication, time management, organisation, and teamwork. These skills and capabilities provide support for further study and learning beyond formal education, including learning in areas such as computer programming, database analysis, computer science, computer engineering, software engineering, information technology, and game development.
+Society and Community
+Leaving Certificate Computer Science includes the study and discussion of current events and emerging technologies, which will stimulate student interest and curiosity and help them connect what they are learning in class with real-world events or situations. Exploring the benefits and drawbacks of current and future computing technologies, and most importantly their impact on people and societies, will help students develop and refine their understanding of how to use computing technology and information ethically. Additionally, students will explore the role that adaptive technology can play in the lives of people with special needs and how access to and engagement with the world of, and outcomes of, computing is of ever-increasing importance to societies, democracies and human progress.
+Community links are an important resource for schools and students participating in Leaving Certificate Computer Science. These links can take the form of participation in industry and local business mentoring/career programmes and university mentoring programmes, leading and participating in local code clubs or school coding clubs, and collaborating with local community groups to use technology to solve a local problem.
+Education for Sustainable Development
+The National Strategy on Education for Sustainable Development 2014 -2020 highlights the need to integrate Education for Sustainable Development (ESD) in the curriculum from pre-school to senior cycle. The National Strategy aims to ensure that education contributes to sustainable development by equipping learners with the relevant knowledge (the ‘what’), the key dispositions and skills (the ‘how’) and the values (the ‘why’) that will motivate and empower them throughout their lives to become informed, active citizens who act for a more sustainable future.
+Computer Science supports education for sustainable development by integrating the key skills of senior cycle throughout its content strands. Many of the contexts used to explore the knowledge and understanding of Computer Science provide opportunities to discuss the practical and ethical aspects of computing, and to consider the use of computers and related technology from a societal perspective.
+In Strand 1, the practices and principles of Computer Science are encountered in a context-based approach related to social, professional, and scientific contexts. Students will appreciate how the use of computing technology impacts on communities. In Strand 2, students learn how solutions can be designed that exploit the power of computers. They will consider ethical dilemmas and contexts relating to the use of computers, including how the resources used in the product life cycle – water, fuel, and electricity – can increase energy efficiency by changing systems and ways of working. In Strand 3, as students build computational artefacts, they appreciate the possibilities of how computing technology can provide ways to protect natural resources. For example, how modelling can be used to optimise systems to improve efficiency and reduce the damaging impact of energy-consuming infrastructures and systems. Throughout the course, students will apply the fundamental practices and concepts of Computer Science and develop an appreciation of the diverse role of computing technology in society and the environment in which they live. 
+Structure of Leaving Certificate Computer Science
+There are three strands in the Computer Science specification: Practices and Principles, Core Concepts and Computer Science in Practice. All three strands are interwoven and should be studied concurrently at different stages of the course and should not be studied in a linear order. Skills and knowledge learned in strands 1 and 2 are applied to collaborative learning tasks outlined in strand 3. In that way, the applied learning tasks provide further practical context. Student application in the strand 3 learning tasks should increase in complexity and sophistication, thus developing and deepening the skills and knowledge learned in strands 1 and 2.
+Strand 1: Practices and Principles 
+The overarching Practices and Principles of computer science are the behaviours and ways of thinking that computer scientists use. This strand underpins the specification and is fundamental to all learning activities. By becoming familiar with, and fluent in, the practices and principles that underpin good practice, students develop their ability to manage themselves and their learning across the subject. 
+Strand 2: Core Concepts
+The Core Concepts of Computer Science represent the major content areas in the field of Computer Science: abstraction, data, computer systems, algorithms and evaluation/testing. Students engage with the cross-cutting concepts theoretically and practically in this strand. As their skills and knowledge develop, they engage in the applied learning tasks outlined in strand 3. Conceptual and practical classroom-based learning is combined with experimental computer-based learning throughout the two years of the course.
+Strand 3: Computer Science in Practice
+Computer Science in Practice provides multiple opportunities for students to apply the Practices and Principles and the Core Concepts. Students work in teams to carry out four applied learning tasks over the duration of the course, each of which results in the creation of a real or virtual computational artefact . These artefacts should relate to the students’ lives and interests. Where possible, the artefacts should be beneficial to the community and society in general. Examples of computational artefacts include programs, games, web pages, simulations, visualisations, digital animations, robotic systems, and apps.
+The four applied learning tasks explore the four following contexts: Interactive Information Systems, Analytics, Modelling & Simulation and Embedded systems. The tasks provide opportunities for students to develop their theoretical and procedural understanding as they grapple with Computer Science practices, principles and core concepts in increasingly sophisticated applications. 
+
+ 
+
+
+The output from each task is a computational artefact and a concise individual report outlining its development. In the report, students outline where and how the core concepts were employed. The structure of the reports should reflect the design process shown above in Figure 3. Initial reports could be in the form of structured presentations to the whole class. As students progress reports should be become detailed and individual. Reports are collected in a digital portfolio along with the computational artefact they describe, and must be verified as completed by both the teacher and the student. The (separate) externally assessed coursework will be based on all learning outcomes, with those of strand 3 being particularly relevant.
+ 
+ 
+
+Strand 2. Core Concepts
+Abstraction
+Algorithms
+Computer Systems
+Data
+Evaluation/Testing
+Strand 1 Practices and Principles
+Computers and Society
+Computational Thinking
+Design and Development
+Strand 3. Computer Science in Practice
+Applied Learning Task 1      - Interactive  Information Systems
+Applied Learning Task 2      - Analytics
+Applied Learning Task 3      - Modelling & Simulation
+Applied Learning Task 4      - Embedded Systems
+ 
+
+
+
+Strand 1 Practices and Principles
+Computers and Society
+Computational Thinking
+Design and Development
+Strand 2. Core Concepts
+Abstraction
+Algorithms
+Computer Systems
+Data
+Evaluation/Testing
+Strand 3. Computer Science in Practice
+Applied Learning Task 1      - Interactive  Information Systems
+Applied Learning Task 2      - Analytics
+Applied Learning Task 3      - Modelling & Simulation
+Applied Learning Task 4      - Embedded Systems
+
+
+
+
+
+
+
+
+ 
+Computer Science Key Skills
+Recent developments in curriculum and assessment at senior cycle have focused on the embedding of key skills within learning outcomes. This is accompanied by a different approach to assessment in which students can generate responses that reveal the depth of their understanding. The embedding of key skills requires careful consideration of the balance between knowledge and skills in the curriculum  and in learning, and of finding appropriate ways of assessing them. 
+
+The key skills of: information processing; being personally effective; communicating; critical and creative thinking and working with others, and the learning outcomes associated with them, comprise the NCCA Key Skills Framework. The Key Skills Framework was developed to provide a common, unified approach for embedding key skills across all future Leaving Certificate specifications. These skills are identified as being important for all students to achieve to the best of their ability, both during their time in school and in the future, and to fully participate in society, in family and community life, the world of work and lifelong learning. Computer Science develops these skills in the following ways:
+Information processing
+Learning in Computer Science takes place in an information-intensive environment; it promotes independent research activities in which students are required to access a wide variety of external materials to tackle questions. Tasks in Computer Science address selection, evaluation and recording of information; as students engage in problem solving, they make decisions and judgments based on data and qualitative and quantitative information. In this information-intensive environment, students develop an appreciation of the differences between information and knowledge and the roles that both play in making decisions and judgements. Programming teaches respect for accuracy and attention to detail and provides a platform to manipulate and process abstract forms of information. The consequence of a lack of precision is that the program fails or produces inaccurate or inconsistent results for different inputs. Similarly, the idea of breaking down a problem into sub-problems that can be solved separately takes a very concrete form in Computer Science, in which information-systems can be accessed through carefully-defined interfaces.
+Critical and creative thinking
+Design, modelling, and programming, require careful analysis of patterns and relationships, which develops skills of higher-order reasoning and problem solving. Part of computational thinking is the ability to identify, analyse and deconstruct problems, explore options and alternatives, and hence solve problems. Hypothesising, making predictions, examining evidence, and reaching conclusions underpins the core of all the activities that students will undertake as part of Computer Science. As they develop these skills, students reflect critically on the forms of thinking and values that shape their own perceptions, opinions and knowledge. This develops the metacognitive dimension of knowledge which is essential in promoting good habits of mind. In Computer Science, students are designers and creators of technology rather than merely users of technology. Students must be creative and expressive to design artefacts that solve specific problems.
+Communicating
+Strong communication skills are developed in collaborative project work. Students use technology to communicate both face to face and through digital media. Although literacy skills are not targeted directly, they enable full participation in the learning experience. Internet research and the use of external sources require and build analysis and interpretation skills. Students will read a wide range of information sources. As part of the course students will be required to express and share their opinions through dialogue, discussion and argument. This encourages engaging in dialogue, listening attentively and eliciting opinions, views and emotions. They will also learn to provide technical information in ways that are relevant to and easily understood by people with diverse levels of technical knowledge and understanding. There is opportunity to develop communication skills further as students compose and present using a variety of media.
+Working with others
+Leaving Certificate Computer Science is underpinned by collaboration and working with others. In their project work, students gain appreciation of the dynamics of groups and the social skills needed to engage in collaborative work. Computer Science contributes to an appreciation that working collectively can help motivation, release energy and capitalise on all the talents in a group. One of the crucial factors in working with others is to identify, evaluate and achieve collective goals. Students learn to negotiate and resolve conflicts as they discuss their different strategies and achieve consensus.
+Being personally effective
+Self-awareness and persistence in the face of challenges enable students to grow and to develop. In Computer Science, students work on uncertain problems and learn to persist through ambiguity and face the risk of failure. As they work through challenges and potential failure they build persistence and resilience which serves them in all areas of their lives. There is no right way to answer a problem or set up a problem-solving strategy; as students build confidence in their self-direction they develop tenacity and rigour. Through developing the skill of being personally effective, students develop strategies for problem solving and for learning in general.
+ 
+Teaching and Learning
+Senior cycle students are encouraged to develop the knowledge, skills, attitudes, and values that will enable them to become independent learners and to develop a lifelong commitment to improving their learning. Leaving Certificate Computer Science supports the use of a wide range of teaching and learning approaches. During the course, students will develop learning strategies that are transferable across different tasks and different subjects, enabling them to make connections between Computer Science, other subjects, and everyday experiences. Through engaging in self-directed learning and reflection, students will plan, monitor, and evaluate their own learning and develop a positive sense of their own capacity to learn. By engaging in group work students will develop skills in reasoned argument, listening to each other, informing one another of what they are doing, and reflecting on their own work and that of others. They will develop skills in communication by collaborating to generate reports and present them to their peers. The strand 3 tasks will enable students to take an active role in their own learning by setting goals, developing action plans, and receiving and responding to assessment feedback.
+Learning applied through Practical Tasks
+Learning in Computer Science needs, as far as is practical, to be applied to problem solving and design exercises. The strand 3 applied learning tasks that students undertake collaboratively during the two years of the course provide significant engaging opportunities for students to work within the practices and principles of Computer Science and apply the core cross-cutting concepts in authentic situations. The resourcefulness of the student will be paramount to the success of the tasks. Students will be expected to learn new concepts and skills according to the demands of the chosen tasks. The computational artefacts that students design should be personally relevant to them or their peers, to their community or to society in general. Examples of computational artefacts include programs, simulations, visualizations, games, digital animations, robotic systems, and apps. Over the course of the two years of Computer Science students will:
+1.	Create an artefact or website that can display information from a database.
+2.	Create an interdisciplinary artefact using some form of analytics.
+3.	Develop a computer system that simulates or models a problem that is difficult to solve analytically.
+4.	Implement an embedded system that uses sensors and controls digital inputs and outputs.
+In each of the tasks students work together to apply learning from Strands 1 and 2, in addition to cumulative learning during the tasks, so that they will have the opportunity to achieve all of the learning outcomes to their full extent. 
+The learning outcomes from all strands are interwoven and to complete their strand 3 applied learning tasks students:
+	approach problems in a systematic way and use abstraction to identify tasks and select appropriate strategies to generate solutions; 
+	create visual representations or models, and decide which tools to use and which algorithms to use, adapt or create as they employ appropriate techniques to develop their solution; 
+	develop computer systems as they use programming, analysis and design skills combined with hardware knowledge to create network/Internet/cloud-based applications;
+	evaluate and test their solutions to identify and remove errors from their programmes and base their solutions upon integration, analysis and evaluation of qualitative and quantitative information and data. 
+As they progress through the practical exercises and applied learning tasks, students learn from their successes and their mistakes. They take this learning to the next task to effectively solve new problems in different situations. 
+Teachers will assess and provide feedback on student learning as part of ongoing teaching and learning in the classroom. The strand 3 tasks will not be assessed by the SEC. The learning achieved through practical exercises and the applied learning tasks will be assessed both by the coursework project assessment and by the end-of-course examination. Both teacher and student will be required to verify completion of the strand 3 tasks.
+Differentiation
+The Leaving Certificate Computer Science specification is differentiated to cater for students of differing abilities and levels of achievement. This is done in the way learning outcomes are achieved and assessments are arranged.
+Differentiation through the learning outcomes of the specification
+Ordinary Level	Higher Level
+Only the learning outcomes that are presented in normal type
+Students engage with a broad range of knowledge, mainly concrete in nature, but with some elements of abstraction or theory. They will be expected to demonstrate and use a moderate range of practical and cognitive skills and tools and to plan and develop simple investigative strategies. They will be expected to select from a range of procedures, and apply known solutions to a variety of problems in both familiar and unfamiliar contexts. They will design and produce computational artefacts that serve a useful purpose.	All learning outcomes including those in bold type
+Students engage with a broad range of knowledge, including theoretical concepts and abstract thinking, with significant depth in some areas. They will be expected to demonstrate and use a broad range of specialised skills and tools to evaluate and use information, to plan and develop investigative strategies, and to determine solutions to varied, unfamiliar problems. They will be expected to identify and apply skills and knowledge in a wide variety of both familiar and unfamiliar contexts. They will design and produce computational artefacts that serve a useful purpose.
+Table 2 Differentiation in Leaving Certificate Computer Science
+Differentiation in teaching and learning
+Students vary in the amount and type of support they need to be successful. Levels of demand in any learning activity will differ as students bring different ideas and levels of understanding to it. The use of strategies for differentiated learning such as adjusting the level of skills required, varying the amount and the nature of teacher intervention, and varying the pace and sequence of learning will allow students to interact at their own level.
+Differentiation in assessment
+Assessment of Leaving Certificate Computer Science will be based on the learning outcomes in the specification. The computer-based, end-of-course examination will be assessed at two levels, Higher and Ordinary. At Higher Level, all the learning outcomes will be assessed including those presented in bold type. At Ordinary Level, only those learning outcomes that are presented in normal type will be assessed. Examination questions will require candidates to demonstrate knowledge, understanding, application, analysis, and evaluation appropriate to each level. Differentiation at the point of assessment will also be achieved through the depth and complexity of the questions and tasks, the stimulus material used, and the extent of the structured support provided for examination candidates at different levels.
+Time allocation
+Computer Science is designed for 180 hours of class contact time. Students will need to be assessed in a variety of ways regarding their ability to meet the learning outcomes. Meeting each learning outcome will be achieved through an interweaving of all three strands, and through a balance of theoretical learning, applied learning (through both the four applied learning tasks and tasks set by the teacher), problem-based learning and project management. 
+Strands and Learning Outcomes
+Strand 1: Practices and Principles
+The practices and principles of Computer Science describe the behaviours and ways of thinking that computationally literate students use to fully engage in a data-rich and interconnected world. Computational thinking, at the heart of Computer Science practices, is a problem-solving process that involves designing solutions that exploit the power of computers. The practices and principles are encountered in a context-based approach related to social, professional, and scientific contexts. Studying the role of computers in society will enhance students’ attitudes towards Computer Science and make it more meaningful and relevant. In learning about designing and developing, students will recognise the creative challenge involved in creating artefacts and in project management.
+Students learn about: 	Students should be able to:
+S1. Computational Thinking
+
+
+
+
+
+
+Problem solving
+
+
+
+
+Logical thinking
+
+
+
+
+Algorithmic thinking	
+1.1.	describe a systematic process for solving problems and making decisions
+1.2.	explain how the power of computing enables different solutions to difficult problems
+1.3.	solve problems by deconstructing them into smaller units using a systematic approach in an iterative fashion
+1.4.	solve problems using skills of logic
+
+1.5.	evaluate alternative solutions to computational problems
+1.6.	explain the operation of a variety of algorithms
+
+1.7.	develop algorithms to implement chosen solutions
+
+1.8.	evaluate the costs and benefits of the use of computing technology in automating processes
+1.9.	use modelling and simulation in relevant situations
+
+1.10.	discuss when heuristics should and could be used and explain the limitations of using heuristics
+S1. Computers and Society
+
+Social and ethical considerations of computing technologies
+
+Turing Machines
+The Internet
+Machine Learning
+Artificial Intelligence
+
+ 
+
+
+User centered design	
+1.11.	discuss the complex relationship between computing technologies and society including issues of ethics
+1.12.	compare the positive and negative impacts of computing on culture and society
+1.13.	identify the past and present stages, and consider emerging trends in the evolution of computing technologies
+1.14.	explain when and what machine learning and AI algorithms might be used in certain contexts
+1.15.	consider the quality of the user experience when interacting with computers and list principles of universal design, including the role of a user interface and the factors that contribute to its usability
+
+1.16.	Discuss different factors of a user interface by comparing related interfaces
+1.17.	describe the role that adaptive technology can play in the lives of people with special needs
+1.18.	recognise the diverse roles and careers that use computing technologies
+S1. Designing and Developing
+Design process
+
+
+Working in a team, assigning roles and responsibilities
+
+
+Communication and reporting
+
+
+Software development and management	
+1.19.	the features of staged and iterative design and development processes
+1.20.	collaborate and assign roles and responsibilities within a team to tackle a computing task
+1.21.	identify alternative perspectives, considering different disciplines, stakeholder and end users
+1.22.	read, write, test, and modify computer programs
+
+1.23.	reflect and communicate on the design and development process
+ Strand 2: Core Concepts
+This strand introduces five core concepts that represent major content areas in the field of Computer Science: Abstraction, Algorithms, Computer Systems, Data, and Evaluation and Testing. The core concepts are developed theoretically and applied practically. In this way, conceptual classroom-based learning is intertwined with experimental computer lab-based learning throughout the two years of the course.
+Students learn about:	Students should be able to:
+  S2. Abstraction	
+2.1.	use abstraction to describe systems and to explain the relationship between wholes and parts
+2.2.	use a range of methods for identifying patterns and abstract common features
+2.3.	demonstrate modular design to develop hardware or software modules that perform a specific function
+2.4.	illustrate examples of abstract models
+S2. Algorithms
+
+
+Programming concepts
+
+
+
+
+
+
+
+Sorting: Simple sort, Insert Sort, Bubble Sort, Quicksort Search: Linear search, Binary Search
+
+
+
+
+Algorithmic complexity
+
+
+
+
+
+	
+
+2.5.	use pseudo code to outline the functionality of an algorithm
+2.6.	construct algorithms using appropriate sequences, selections/conditionals, loops and operators to solve a range of problems, to fulfil a specific requirement
+2.7.	implement algorithms using a programming language to solve a range of problems
+
+2.8.	apply basic search and sorting algorithms and describe the limitations and advantages of each algorithm
+2.9.	assemble algorithms from elements that already exist or can be developed separately, by using functions, (including recursive functions) procedures and modules
+2.10.	explain the common measures of algorithmic efficiency using any algorithms studied
+
+S2. Computer Systems
+
+CPU: ALU, Registers, Program counter, Memory
+
+Basic electronics: voltage, current, resistors, capacitors, transistors 
+
+
+Operating System layers: Hardware, OS, Application, User
+
+
+
+Web infrastructure - Computer Network Protocols: HTTP, 
+TCP, IP, VOIP
+
+	
+2.11.	describe the different components within a computer and the function of those components
+2.12.	describe the different types of logic gates and explain how they can be arranged into larger units to perform more complex tasks
+2.13.	describe the rationale for using binary in digital computing and how to convert binary and hexadecimal to decimal and vice versa
+2.14.	describe the difference between digital and analogue input
+
+2.15.	explain what is meant by the World Wide Web (WWW) and the Internet, including the client server model, hardware components and communication protocols
+S2. Data
+
+  Boolean, integer, real, char,
+  string, date, array
+
+8-bit ASCII
+Non-Roman character sets
+Unicode: UTF-8, Emojis
+
+
+Information systems	
+2.16.	use data types that are common to procedural high- level languages.
+2.17.	use ASCII and Unicode character sets to encode/decode a message and consider the importance of having such standards 
+2.18.	collect, store and sort both continuous and discrete data
+S2. Evaluation and Testing
+
+Debugging
+Testing: Unit test, Function test, System test.	
+2.19.	test outcomes of solutions and decisions both in the short- and long-term
+2.20.	Identify and fix/debug warnings and errors in computer code and modify as required
+2.21.	Critically reflect and identify limitations in completed code and suggest possible improvements
+2.22.	explain the different stages in software testing
+
+
+ 
+Strand 3: Computer Science in Practice
+Computer Science in practice provides multiple opportunities for students to use their conceptual understanding in practical applications. Over the two years of the course students engage with four team based applied learning tasks. Student groups plan, design and develop computational artefacts that are personally relevant or beneficial to their community and society in general. Examples of computational artefacts include programs, games, simulations, visualizations, digital animations, robotic systems, and apps. Students are expected to document, reflect and present on each applied learning task.
+
+Applied Learning Task : Interactive Information Systems
+Design is one of the key practices and principles of Computer Science. As designers and creators of technology, students can be innovative and expressive through the creation of artefacts. Computer Science is also an information-intensive discipline that involves the selection, evaluation, recording and presentation of information. In this applied learning task, students will develop an interactive website that can display information (either local or remote data) from a database to meet a set of user needs. Through planning and designing an infrastructure that can display data, students will develop their knowledge of the role computing systems can play in communicating with and providing information about the world around them.
+Students learn about:	Students should be able to:
+Information systems
+
+  User centered design
+
+Web design 
+
+File systems and relational
+Databases
+
+Design Process	3.1.	understand and list user needs/requirements before defining a solution
+3.2.	create a basic relational database to store and retrieve a variety of forms of data types
+3.3.	use appropriate programming languages to develop an interactive website that can display information from a database that meets a set of users’ needs
+ 
+Applied Learning Task : Analytics
+Hypothesising, making predictions, examining evidence, recognising patterns and reaching conclusions are at the heart of Computer Science. In this applied learning task, students will identify an interdisciplinary topic, develop a hypothesis and utilise existing resources to highlight the salient information and inform future decisions. By identifying, analysing, and deconstructing a problem, students will deepen their understanding of core practices and principles of Computer Science.
+Students learn about:	Students should be able to:
+Analytics Abstraction
+Data collection and analysis 
+Interpretation of data
+Algorithms	3.4.	develop algorithms that can find the frequency, mean, median and mode of that data
+3.5.	structure and transform raw data to prepare it for analysis
+3.6.	represent data to effectively communicate in a graphical form
+3.7.	use algorithms to analyse and interpret data to highlight the salient information and inform future decisions
+Applied Learning Task : Modelling & Simulation
+Modelling, programming, and coding require careful analysis of patterns and relationships to solve problems. In this applied learning task, students will engage with a problem that is difficult to solve analytically, but that is amenable to a solution using simulation or modelling. Students will develop a computer system that simulates or models the problem. Engaging with a problem in this way will heighten students’ awareness and understanding of how algorithms can be used across a wide range of disciplines and subjects.
+Students learn about:	Students should be able to:
+
+Modelling/simulation Abstraction Algorithms	3.8.	develop a model that will allow different scenarios to be tested
+3.9.	analyse and interpret the outcome of simulations both before and after modifications have been made.
+3.10.	 explain the benefits of using agent-based modelling and how it can be used to demonstrate emergent behaviours
+Applied Learning Task : Embedded systems
+The design and application of computer hardware and software are a central part of Computer Science. In this applied learning task, students will implement a microprocessor system that uses sensors and controls digital inputs and outputs as part of an embedded system. By building the component parts of a computer system, students will deepen their understanding of how computers work and how they can be embedded in our everyday environments.
+Students learn about	Students should be able to:
+Embedded systems 
+
+Computing Inputs and Outputs
+
+Computer systems
+
+
+Design Process	3.11.	use and control digital inputs and outputs within an embedded system
+3.12.	measure and store data returned from an analogue input
+3.13.	develop a program that utilises digital and analogue
+inputs
+
+3.14.	design automated applications using embedded systems
+
+ 
+Assessment
+Assessment in senior cycle involves gathering, interpreting and using information about the processes and outcomes of learning. It takes different forms and is used for a variety of purposes. It is used to determine the appropriate route for students through a differentiated curriculum, to identify specific areas of difficulty or strength for a given student and to test and certify achievement. Assessment supports and improves learning by helping students and teachers to identify next steps in the teaching and learning process.
+As well as varied teaching strategies, varied assessment strategies will support learning and provide information that can be used as feedback so that teaching and learning activities can be modified in ways that best suit individual learners. By setting appropriate and engaging tasks, asking higher-order questions and giving feedback that promotes learner autonomy, assessment will support learning as well as summarising achievement.
+There are several important aspects of Computer Science assessments to consider: the use of authentic tasks, the breadth of concepts being assessed, and the special role computers can play in delivering instruction and measuring performance. Compared to other subjects, Computer Science provides a unique opportunity to take advantage of online learning and computerised assessment. Students can create programs such as games, apps and simulations within an environment that also collects data, analyses achievement, and communicates progress to both students and teachers.
+Project-based/portfolio assessment of coursework can measure many of the Computer Science learning outcomes associated with performance. Coursework assessment provides students with opportunities to demonstrate their understanding in multiple ways that highlight their creativity, interests, and understanding.
+Assessment for certification
+Assessment for certification is based on the aim, objectives, and learning outcomes of this specification. Differentiation at the point of assessment is achieved through examinations at two levels – Ordinary Level and Higher Level.
+There are two components to the assessment of Leaving Certificate Computer Science – (i) an end-of-course computer-based examination and (ii) coursework. Both components reflect the relationship between the application of skills and the theoretical content of the specification.
+The end-of-course assessment may comprise questions of varied format and type. The questions will assess both the core cross-cutting concepts and the computer practices and principles. The questions will be based on the learning outcomes in the specification; however, any question may address more than one learning outcome, or require students to combine knowledge and skills from across several areas of the specification.
+The coursework assessment will require students to demonstrate proficiency in course content and skills that are not easily assessed by the end-of-course examination. The assessment will require students to create an innovative computational artefact, and to report on the work and process involved. Students must acknowledge, through appropriate citations and references, the source or author of all information or evidence taken from somebody else’s work. It is anticipated that student work for both components will be submitted electronically and will be marked by the State Examinations Commission (SEC).
+The assessment of both components will be aligned with the objectives of the specification, and assess the extent to which students:
+	understand how computing technology presents new ways to address problems.
+	use computational thinking to analyse problems, and to design, develop and evaluate solutions.
+	can read, write, test and modify computer programs.
+	understand how computers work and the component parts of computer systems and how they interrelate, including software, data, hardware, communications, and users.
+	understand the evolution of computing technology and appreciate the ethical and social implications of the use of computing technology in contemporary and future social issues, thereby enabling them to make informed decisions.
+	work independently, communicate effectively, and understand the factors that influence collaboration and teamwork.
+	and become responsible, competent, confident, reflective and creative users of computing technology.
+Structure of assessment for certification
+There are two assessment components at each level, an end-of-course examination (70%) and coursework (30%).
+
+Component	Percentage
+End-of-course examination	70
+•	Computer-based assessment of learning outcomes	
+Coursework assessment	30
+•	One computational artefact with report	
+Total	100
+Table 1 Overview of assessment
+
+End-of-course examination
+The end-of-course examination will be made up of a range and balance of question types. It is anticipated the exam will be computer-based. The questions will require students to demonstrate knowledge, understanding, application, analysis, evaluation and creativity appropriate to each level. The key skills are embedded in the learning outcomes and will be assessed in the context of the  learning outcomes. The examination will assess:
+	Knowledge and recall of facts, principles and methods relating to Computer Science.
+	Application of knowledge and understanding of the principles and concepts of Computer Science, including abstraction, logic, algorithms and data representation, and how to analyse problems in computational terms.
+	Ability to write code and to compile, test and debug program code.
+	Ability to evaluate computer systems that solve problems, making reasoned judgements about these and presenting conclusions.
+	Problem solving based on integration, analysis and evaluation of qualitative and quantitative information and data, using knowledge gained from all three strands.
+	Understanding of the ethical, historical, environmental and technological aspects of Computer Science, and of how science contributes to the social and economic development of society.
+The examination will have sections covering questions that address :
+•	Computer Science topics across the entire specification
+•	Practical questions requiring the use of a programming language.
+•	Questions based on contexts and drawn from across different areas of the specification.
+End-of-course assessment criteria
+
+The student with a high level of achievement:	The student with a moderate level of achievement:	The student with a low level of achievement:
+demonstrates a thorough knowledge and understanding of the principles and concepts of Computer Science from the whole specification and with few significant omissions	demonstrates a good knowledge and understanding of the principles and concepts of Computer Science, from many parts of the specification	demonstrates a limited knowledge and understanding of the principles and concepts of Computer Science
+consistently applies knowledge and understanding of the principles and concepts of Computer Science to problem solving in both familiar and new contexts using appropriate computational thinking	applies knowledge and understanding of principles and concepts of Computer Science to problem solving in both familiar and some new contexts using appropriate computational thinking	selects appropriate facts and principles to solve problems concerning familiar material using a limited range of computational thinking
+is able to write, compile, test and debug program code in a manner that is almost flawless	is able to write code and can compile, test and debug program code with some errors	only has a limited ability to write code and to compile, test and debug program code
+consistently designs, programs and evaluates computer systems that solve problems, making reasoned judgements about these and presenting conclusions	designs programs and evaluates some computer systems that solve problems, making judgements about these and presenting conclusions	designs programs that do not solve problems they were designed to. Presents limited evaluation of some computer systems without making judgements about these or presenting conclusions
+demonstrates a thorough knowledge and understanding of the ethical, historical, environmental and technological aspects of Computer Science, and of how science contributes to her/his personal life and to the social and economic development of society	demonstrates a good knowledge and understanding of the ethical, historical, environmental and technological aspects of Computer Science, and of how science contributes to her/his personal life and to the social and economic development of society	demonstrates a limited knowledge and understanding of the ethical, historical, environmental and technological aspects of Computer Science, and of how science contributes to her/his personal life and to the social and economic development of society
+Table 4 End of course examination assessment criteria
+Coursework assessment
+The coursework assessment will use practical situations to assess how students design data structures and develop algorithms, integrate ideas, test hypotheses, and explore alternative approaches. It will be similar to the structure of the strand 3 applied learning tasks that students complete during the two years of the course. However, the coursework assessment must be carried out individually. Students will not be permitted to work in groups for the coursework assessment. 
+In January of each year two, the State Examinations Commission will set a task in which students are required to generate a computational artefact in response to a brief set out by the State Examinations Commission. The time-period for completion of the coursework will be set out in the brief. A period of 6-8 weeks is anticipated, after which the computational artefact and the report are submitted to the State Examinations Commission for marking.  The actual date for submission will be set by the SEC each year. It is expected the submission will be through some form of digital medium.
+Coursework assessment criteria
+The student demonstrating a high level of achievement:	The student demonstrating a moderate level of achievement:	The student demonstrating a low level of achievement
+systematically breaks down problems and filters out unnecessary information and can explain the processes involved. Uses innovative thinking in design and development	identifies problems/things that can be solved. Uses innovative thinking in design and development	engages with limited aspects of the problem. Avoids problems/challenges that have more than one step or part to solving them. May unintentionally overly-complicate problems
+independently designs, models, tests, debugs and refines solutions (using a test plan and data where appropriate), and chooses an appropriate way to represent solutions	iteratively develops, tests, and debugs solutions	expresses ideas at a basic level. Submits the first working solution as the finished product.
+Testing, debugging and refinement of solutions is done in a linear fashion.
+consistently displays curiosity to exhaustively investigate and analyse a broad range of appropriate problems/solutions	deals with complexity and with open-ended problems	requires a plan and clear expectations or deliverables. Follows instructions and is limited in their self-direction
+independently identifies and acts on patterns in problems/solutions.
+Independently seeks out pre-existing solutions, transferring ideas and/or solutions from one problem context to another	adapts existing knowledge or solutions to solve new problems; weighs-up outcomes carefully	application of previous learning to new problems is limited
+celebrates ambiguity and having different interpretations.
+Compares the performance of different interpretations that do the same thing.	shows an ability to tolerate ambiguity in both problems and solutions.	uses pre-learned solutions to attempt to solve new problems. Has difficulty accepting ambiguity in problems or their solutions.
+Table 5 Coursework assessment criteria
+
+Assessment programming language
+Leaving Certificate Computer Science does not require a specific language. However, for the initial years of the subject, Python and JavaScript will be the languages used in the end-of course assessment and the coursework assessment; this will be reviewed on an ongoing basis. There is no restriction in choice of language used in the strand 3 applied learning tasks. 
+
+Reasonable Accommodations/Inclusion
+This Computer Science specification requires that students engage with practical application of computational thinking on an ongoing basis throughout the course. In addition, the assessment involves a coursework element, which accounts for 30% of the total marks awarded. This emphasis on practical applications may have implications for students with physical/medical/sensory and/or specific learning difficulties. In this context, the scheme of Reasonable Accommodations, operated by the State Examinations Commission, is designed to assist candidates in the Leaving Certificate who have physical/medical/sensory and/or specific learning difficulties. In considering the course, it is recommended that any student with a disability should contact the State Examinations Commission beforehand to find out if any accommodations can be made.
+ 
+Appendix I: Glossary of Action Verbs Used
+
+Verb	Description
+Analyse	study or examine something in detail, break down in order to bring out the essential elements or structure; identify parts and relationships, and to interpret information to reach conclusions
+Annotate	add brief notes of explanation to a diagram or graph
+Apply	select and use information and/or knowledge and understanding to explain a given situation or real circumstances
+Appraise	evaluate, judge or consider text or a piece of work
+Appreciate	recognise the meaning of, have a practical understanding of
+Brief description/explanation	a short statement of only the main points
+Argue	challenge or debate an issue or idea with the purpose of persuading or committing someone else to a particular stance or action
+Calculate	obtain a numerical answer showing the relevant stages in the working
+Classify	group things based on common characteristics
+Comment	give an opinion based on a given statement or result of a calculation
+Compare	give an account of the similarities between two (or more) items or situations, referring to both (all) of them throughout
+Consider	describe patterns in data; use knowledge and understanding to interpret patterns, make predictions and check reliability
+Construct	develop information in a diagrammatic or logical form; not by factual recall but by analogy or by using and putting together information
+Contrast	Detect correspondences between two ideas
+Convert	change to another form
+Criticise	state, giving reasons the faults/shortcomings of, for example, an experiment or a process
+Deduce	reach a conclusion from the information given
+Define	give the precise meaning of a word, phrase, concept or physical quantity
+Demonstrate	prove or make clear by reasoning or evidence, illustrating with examples or practical application
+Derive	arrive at a statement or formula through a process of logical deduction; manipulate a mathematical relationship to give a new equation or relationship
+Describe	develop a detailed picture or image of, for example a structure or a process, using words or diagrams where appropriate; produce a plan, simulation or model
+Determine	obtain the only possible answer by calculation, substituting measured or known values of other quantities into a standard formula
+Differentiate	Identify what makes something different.
+Discuss	offer a considered, balanced review that includes a range of arguments, factors or hypotheses; opinions or conclusions should be presented clearly and supported by appropriate evidence
+Distinguish	make the differences between two or more concepts or items clear
+Estimate	give a reasoned order of magnitude statement or calculation of a quantity
+Evaluate (DATA)	collect and examine data to make judgments and appraisals; describe how evidence supports or does not support a conclusion in an inquiry or investigation; identify the limitations of data in conclusions; make judgments about the ideas, solutions or methods
+Evaluate (ethical judgement)	collect and examine evidence to make judgments and appraisals; describe how evidence supports or does not support a judgement;
+	identify the limitations of evidence in conclusions; make judgments about the ideas, solutions or methods
+Explain	give a detailed account including reasons or causes
+Examine	consider an argument or concept in a way that uncovers the assumptions and interrelationships of the issue
+Find	general term that may variously be interpreted as calculate, measure, determine etc.
+Formulate	Express the relevant concept(s) or argument(s) precisely and systematically
+Group	identify objects according to characteristics
+Identify	recognise patterns, facts, or details; provide an answer from a number of possibilities; recognise and state briefly a distinguishing fact or feature
+Illustrate	use examples to describe something
+Infer	use the results of an investigation based on a premise; read beyond what has been literally expressed
+Investigate	observe, study, or make a detailed and systematic examination, in order to establish facts and reach new conclusions
+Interpret	use knowledge and understanding to recognise trends and draw conclusions from given information
+Justify	give valid reasons or evidence to support an answer or conclusion
+List	provide a number of points, with no elaboration
+Measure	quantify changes in systems by reading a measuring tool
+Model	generate a mathematical representation (e.g., number, graph, equation, geometric figure) for real world or mathematical objects, properties, actions, or relationships
+Order	describe items/ systems based on complexity and/or order
+Outline	give the main points; restrict to essentials
+Plot	a graphical technique for representing a data set, usually as
+a graph showing the relationship between two or more variables.
+Predict	give an expected result of an event; explain a new event based on observations or information using logical connections between pieces of information
+Prove	use a sequence of logical steps to obtain the required result in a formal way
+Provide evidence	provide data and documentation that support inferences or conclusions
+Recognise	identify facts, characteristics or concepts that are critical (relevant/appropriate) to the understanding of a situation, event, process or phenomenon
+Recall	remember or recognise from prior learning experiences
+Relate	associate, giving reasons
+Sketch	represent by means of a diagram or graph (labelled as appropriate); the sketch should give a general idea of the required shape or relationship, and should include relevant features
+Solve	find an answer through reasoning
+State	provide a concise statement with little or no supporting argument
+Suggest	propose a solution, hypothesis or other possible answer
+Synthesise	combine different ideas in order to create new understanding
+Understand	have and apply a well-organised body of knowledge
+Use	apply knowledge or rules to put theory into practice
+Verify	give evidence to support the truth of a statement
+ 
+Appendix II: Glossary of Core Concepts
+Abstraction
+Abstractions are formed by identifying patterns and extracting common features from specific examples to create generalizations. Using generalized solutions and parts of solutions designed for broad reuse simplifies the development process by managing complexity.
+Data
+Data is collected with both computational and noncomputational tools and processes. Students learn how data about themselves and their world is collected and used. Data is collected and stored so that it can be analysed to better understand the world and make more accurate predictions.
+Computing systems
+A computing system is the combination of hardware, software, computational processes and networks and users to create a system. Students will develop programming, analysis and design skills combined with the hardware knowledge to create network/Internet/cloud based applications. They will learn how computing devices (such as smart devices, desktop computers and tablets) communicate with each other and the world around them and how to plan and design the infrastructure and systems that allow this to happen.
+Algorithms
+An algorithm is a sequence of steps designed to accomplish a specific task. Algorithms are translated into programs, or code, to provide instructions for computing devices. An algorithm is a sequence of steps designed to accomplish a specific task. Algorithms are translated into programs, or code, to provide instructions for computing devices. students learn how to read, write, modify and test algorithms, as well as how to evaluate competing algorithms. The words programming, coding and programming language are defined as: 
+-	Programming is the craft of analysing problems and designing, writing, testing and maintaining programs to solve them.
+-	Coding is the act of writing computer programs in a programming language.
+-	A programming language is the formal language used to give a computer instruction.
+
+Evaluation and Testing
+Students learn how to identify and remove some errors from computer hardware or software and checks that it does what it is supposed to do. A method often used in computer science is an iterative development process which involves identifying a problem; devising and testing solutions; evaluating the results; and revising and redoing to find the best solution. Central to this process is making mistakes and learning from them to effectively solve new problems in different situations. Students also learn to evaluate the feasibility of using computational tools to solve given problems or sub- problems, such as through a cost-benefit analysis. In their evaluations, students will include factors such as how efficiency effects feasibility or whether a proposed approach raises ethical concerns in their evaluations.
+Heuristic
+A Heuristic is an approach to problem solving which aims to make an approximate solution to the problem. This can be used when there is limited time and resources available. The solution may not be feasible using classic or standard methods but should aim to approximate the optimal solution. This may involve the loss of precision, accuracy, optimal performance or completeness.
