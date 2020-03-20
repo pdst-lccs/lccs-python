@@ -1,11 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program that shifts each letter of a 6 letter word by 1
 # Example: "Python" becomes "Qzuipo".
-'''
 
 # inStr = "Python"
 inStr = input("Enter any 6 letter word: ")
