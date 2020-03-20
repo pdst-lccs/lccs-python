@@ -1,10 +1,8 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: String Operation Activity
-'''
 
 # Initialise the string
 alNum = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
@@ -21,7 +19,11 @@ print(alNum[5])     # "f"
 print(alNum[26:52]) # "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(alNum[26])    # "A"
 
-# This could be used for another question
+# END OF SOLUTION
+
+# The code below could be used for another question
+# (Just remove the triple quotes to activate)
+'''
 print("")
 print(alNum[52])    # "0"
 print(alNum[25:52]) # "zABCDEFGHIJKLMNOPQRSTUVWXYZ"
@@ -35,4 +37,4 @@ print(alNum[0])     # "a"
 
 # A general pattern used to find the last character
 print( alNum[len(alNum) - 1] ) # "0"
-
+'''
