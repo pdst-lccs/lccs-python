@@ -1,11 +1,10 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to calculate the average height of 5 people
 # Version: 2.0 
-'''
+
 # A program to calculate the average height of 5 people
 print("Average height calculator")
 print("=========================")
