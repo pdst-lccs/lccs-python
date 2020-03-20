@@ -1,11 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Name: Guessing Game v2
 # Purpose: A program to demonstrate the double if statement
-'''
 
 import random
 
@@ -29,7 +27,7 @@ else:
 print("Goodbye")
 
 '''
-# Logically Equivalent
+# The code below is logically the same as the above ...
 
 # Evaluate the condition
 if guess != number:
