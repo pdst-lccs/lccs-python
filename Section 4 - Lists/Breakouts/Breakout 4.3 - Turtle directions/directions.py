@@ -1,15 +1,13 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to demonstrate the use of lists in a turtle graphic program
-'''
 
 from turtle import *
 
 pensize(2) # set the pen size to 2
-color("red") # sent the pen colour to red
+color("red") # set the pen colour to red
 
 # setup a list of angles
 angles = [0, 90, 60, 90, 90]
