@@ -1,11 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Name: Guessing Game v3
 # Purpose: A program to demonstrate the multiple if statement
-'''
 
 import random
 
