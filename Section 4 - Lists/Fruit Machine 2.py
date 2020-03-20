@@ -1,4 +1,3 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
@@ -9,7 +8,6 @@
 # The contents of the file are saved in a variable called fileContents
 # The string is split into a list of tokens called fruits
 # The choice command is used to select a random element from fruits
-'''
 
 # Program to simulate a fruit machine!
 import random
