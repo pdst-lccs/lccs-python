@@ -1,10 +1,8 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: NCCA/PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to demonstrate the use of list specific methods
-'''
 
 # Sample program to build up a list
 userList = []
