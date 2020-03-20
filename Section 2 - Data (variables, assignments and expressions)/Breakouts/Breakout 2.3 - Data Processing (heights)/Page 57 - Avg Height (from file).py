@@ -1,11 +1,10 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to calculate the average height of 5 people
 #          The heights are stored in a file called 'heights.csv'
-'''
+#          You should download 'heights.csv' before running this program
 
 heightFile = open("heights.csv","r") # Open the file
 
