@@ -1,11 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: Partial solution to breakout 4.1 - random sentence generator
 # The full solution needs to be developed further ....
-'''
 
 import random
 
