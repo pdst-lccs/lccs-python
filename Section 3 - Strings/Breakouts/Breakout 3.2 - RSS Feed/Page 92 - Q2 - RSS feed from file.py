@@ -1,11 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: To read and display a live RSS feed using
 # a URL read from a text file (feeds.txt)
-'''
 
 from urllib.request import urlopen
 from xml.dom import minidom
@@ -32,7 +30,7 @@ def getRSSString(url):
 
 # START HERE ... (ignore all lines before this point)
 
-# See page 92 of manual - Hint #2
+# Page 92 Q2 - Hint #2
 feedFile = open("feeds.txt", "r")
 feedURL = feedFile.readline()
 feedFile.close()
