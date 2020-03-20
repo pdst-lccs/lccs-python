@@ -8,9 +8,11 @@
 fruits = ['Strawberry', 'Lemon', 'Orange', 'Raspberry', 'Cherry']
 print(fruits[5]) # <-- Syntax Error - out of bounds
 
-# The following lines will not be executed because Python stops when it oncounters a syntax error
+# Q. Why will the following lines not be executed?
 print("Hello World") 
 lifeSupport = True
+# A. Because Python stops when it encounters a syntax error
+
 
 
 
