@@ -1,10 +1,8 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
-# Purpose: Solution to re-ordering exercise on Page 133
-'''
+# Purpose: Solution to re-ordering exercise (programming exercise 5.1)
 
 import random
 
