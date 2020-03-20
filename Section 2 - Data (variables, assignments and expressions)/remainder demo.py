@@ -1,10 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to illustrate the use of the remainder operator
-'''
+
 print(30 % 10) # displays 0 because 30 divided by 10 leaves no remainder
 
 print(30 % 15) # displays 0 because 30 divided by 15 leaves no remainder
