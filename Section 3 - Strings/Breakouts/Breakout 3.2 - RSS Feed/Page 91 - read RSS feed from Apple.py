@@ -1,10 +1,8 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: To read and display Apple's live RSS feed
-'''
 
 from urllib.request import urlopen
 from xml.dom import minidom
@@ -28,7 +26,8 @@ def getRSSString(url):
     return rssString
 
 
-# START HERE ... (ignore all lines before this point)
+# PROGRAM START FROM HERE 
+# (ignore all lines before this point)
 
 # Read the RSS feed from the URL provided
 feed = getRSSString("https://www.apple.com/main/rss/hotnews/hotnews.rss")
