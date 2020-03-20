@@ -1,11 +1,10 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to demonstrate the str command
 # The running total is displayed in a formatted string
-'''
+
 # Program to calculate a running total
 
 # Initialise the variable
