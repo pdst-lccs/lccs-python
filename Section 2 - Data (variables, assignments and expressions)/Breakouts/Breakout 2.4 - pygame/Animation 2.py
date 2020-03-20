@@ -1,10 +1,8 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to create the illusion of a moving 50x50 square red block
-'''
 
 import pygame, sys, time
 
