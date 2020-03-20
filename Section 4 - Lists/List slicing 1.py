@@ -14,11 +14,3 @@ print(fruits[2:5])  # ['orange', 'banana', 'kiwi']
 print(fruits[1:])   # ['pear', 'orange', 'banana', 'kiwi']
 print(fruits[:5])   # ['apple', 'pear', 'orange', 'banana', 'kiwi']
 
-
-# Page 106
-fruits = ['apple', 'pear', 'orange', 'banana', 'kiwi']
-exoticFruits = fruits[2:5]
-print(exoticFruits)
-
-
-
