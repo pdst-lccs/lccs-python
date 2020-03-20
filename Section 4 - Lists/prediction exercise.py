@@ -1,10 +1,8 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: Prediction exercise
-'''
 
 fruits = ['Strawberry', 'Lemon', 'Orange', 'Raspberry', 'Cherry']
 
@@ -23,7 +21,7 @@ print(orange)
 lemon = fruits[1]
 print(lemon)
 
-# Additional question
+# Additional question (on the same page)
 # A string is in fact a list of single character strings
 # The first index refers to the list element
 # The second index is applied to that element
