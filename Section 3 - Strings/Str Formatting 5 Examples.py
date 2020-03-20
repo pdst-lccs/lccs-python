@@ -1,10 +1,8 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to demonstrate string formatting
-'''
 
 # Example 1
 print("Example 1")
@@ -32,13 +30,13 @@ print("%f" %3)
 
 # Example 4
 print("\nExample 4")
+msg = "Hi %s. How are you?"
+name = "Hal"
+print(msg%name)
+
+# Example 5
+print("\nExample 5")
 # String formatting expressions are commonly used used with variables
 import math
 r = 5
 print("Radius: %d, Area: %.2f" %(r, 2*math.pi*r))
-
-# Example 5
-print("\nExample 5")
-msg = "Hi %s. How are you?"
-name = "Hal"
-print(msg%name)
