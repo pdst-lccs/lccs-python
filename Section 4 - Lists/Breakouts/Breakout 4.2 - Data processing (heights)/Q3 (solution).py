@@ -1,10 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: An averaging program
-'''
+
 from statistics import mean
 
 # Create an empty list to store the height values
