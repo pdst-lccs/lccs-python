@@ -1,11 +1,10 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to display a 50x50 square red block
 # in the top left hand corner of a pygame window
-'''
+
 import pygame, sys
 
 # set up pygame
