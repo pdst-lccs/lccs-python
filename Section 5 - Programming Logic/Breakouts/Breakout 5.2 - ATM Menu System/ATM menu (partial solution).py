@@ -1,10 +1,8 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
-# Purpose: This code displays an ATM menu
-'''
+# Purpose: A partial solution to Breakout 5.2 ATM Menu System
 
 print("\t|-------------------------------|")
 print("\t|\t LCCS BANK LIMITED\t|")
