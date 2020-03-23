@@ -1,11 +1,11 @@
-'''
+
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Name: Guessing Game v7
 # Purpose: A program to demonstrate data validation
 # Description: This is the exact same as version 6 except the input is validated
-'''
+
 # Guess Game v7 - while - go again? - data validation
 import random
 
