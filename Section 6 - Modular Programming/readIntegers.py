@@ -1,10 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: Dec 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to demonstrate the use of functions to validate data
-'''
+
 
 # Version 1
 # A function to keep reading until the user enters a number
@@ -54,4 +53,7 @@ def readIntegerV4():
     return int(strN)
 
 # Main Program
-print(readIntegerV4())
+print(readIntegerV1())
+# print(readIntegerV2())
+# print(readIntegerV3())
+# print(readIntegerV4())
