@@ -1,4 +1,10 @@
-# Math multiplication tutor V1
+# Event: LCCS Python Fundamental Skills Workshop
+# Date: May 2018
+# Author: Joe English, PDST
+# eMail: computerscience@pdst.ie
+# Purpose: This code displays version 1 of Maths Multiplication Tutor (MMT v1)
+# This is the base version of a program on which to complete Breakout Task 5.5
+
 import random
 
 n1 = random.randint(0, 12) # Generate the 1st number
