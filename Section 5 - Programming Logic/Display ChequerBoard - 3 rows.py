@@ -1,4 +1,3 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
@@ -6,7 +5,7 @@
 # Name: Chequer Board v1
 # Purpose: A program to display the first 3 rows of a chequer board
 # Task: Modify the program to a) display all 8 rows and b) use loops
-'''
+
 import pygame, sys
 from pygame.locals import *
 
