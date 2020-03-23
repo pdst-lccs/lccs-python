@@ -1,10 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: Dec 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to display all the prime numbers up to 100
-'''
+
 import math
 
 # A function to test whether a number is prime or not
@@ -30,4 +29,3 @@ def isPrime(numToCheck):
 for num in range(100):
     if (isPrime(num)):
         print(num, "is prime")
-
