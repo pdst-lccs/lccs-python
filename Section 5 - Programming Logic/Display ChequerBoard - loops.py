@@ -1,4 +1,3 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
@@ -6,7 +5,7 @@
 # Name: Chequer Board v1
 # Purpose: A program to display the first 4 rows of a chequer board using loops
 # Task: Complete the program so that all 8 rows are displayed
-'''
+
 import pygame, sys
 from pygame.locals import *
 
@@ -29,18 +28,21 @@ y = 0
 for column in range(1,5):
     pygame.draw.rect(windowSurface, BLACK, (x, y, 50, 50))
     x = x+100
+
 # Row 2
 x = 50
 y = y+50
 for column in range(1,5):
     pygame.draw.rect(windowSurface, BLACK, (x, y, 50, 50))
     x = x+100
+
 # Row 3
 x = 0
 y = y+50
 for column in range(1,5):
     pygame.draw.rect(windowSurface, BLACK, (x, y, 50, 50))
     x = x+100
+
 # Row 4
 x = 50
 y = y+50
