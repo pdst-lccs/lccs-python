@@ -1,10 +1,8 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: Dec 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to demonstrate return values
-'''
 
 # Add all the numbers from 0 to n
 def sumOfN(n):
@@ -18,13 +16,3 @@ def sumOfN(n):
 # Main processing
 result = sumOfN(10) # Call the function and ASSIGN the return value to result
 print("The sum of the first 10 integers is %d" %result)
-
-
-'''
-# A function to display all the numbners from 1 .. n
-def countToN(n):
-    for i in range(1, n+1):
-        print(i)
-        
-countToN(10)
-'''
