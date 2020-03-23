@@ -1,4 +1,3 @@
-'''
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
@@ -7,7 +6,7 @@
 # The program also demonstrates the use of nested if statements.
 # Pay careful attention to the indentation
 # Description: After a correct guess the player is given the option of playing another game
-'''
+
 
 # Guess Game v6 - while not correct - ask, go again?
 import random
