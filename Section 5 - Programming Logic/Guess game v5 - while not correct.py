@@ -1,11 +1,9 @@
-'''
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Name: Guessing Game v5
 # Purpose: A program to demonstrate sentinel controlled repetition using while
 # Description: The user is given an unlimited number of chances
-'''
 
 import random
 
