@@ -14,7 +14,9 @@ print( sub( 2, sub(3, sub(4, 5)))) # -> displays -2
 
 # Predict what the print statements below would display
 # Now uncomment the lines and run the code
-# print( sub( 2, sub(3, 4)))
-# print( sub( 2, sub(3, sub(4, 5))))
+# print( sub( 5, 1)
+# print( sub( 1, 5)
+# print( sub( 2, sub(4, 3)))
+# print( sub( 1, sub(2, sub(3, 4))))
 
 # Were your predictions correct?
