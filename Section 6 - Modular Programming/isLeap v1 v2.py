@@ -1,10 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: Dec 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to demonstrate alternative implementations of isLeap
-'''
+
 def isLeapV1(year):
     if year % 4 == 0 and year % 100 != 0:
         return True
