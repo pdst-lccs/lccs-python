@@ -1,10 +1,10 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: Dec 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to display Green Eggs and Ham (Dr Seuss)
-'''
+
+# A program to display Green Eggs and Ham (v3)
 def displayChorus():
     print()
     print("I do not like green eggs and ham.")
