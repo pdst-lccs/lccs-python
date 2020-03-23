@@ -1,10 +1,8 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: Program to keep a count of the number of times each face of a dice is rolled and plot the results
-'''
  
 import random
 import plotly
