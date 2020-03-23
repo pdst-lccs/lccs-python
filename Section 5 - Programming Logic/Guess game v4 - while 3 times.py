@@ -1,4 +1,3 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
@@ -6,7 +5,7 @@
 # Name: Guessing Game v4
 # Purpose: A program to demonstrate counter controlled repetition using while
 # Description: The user is given 3 'chances'
-'''
+
 
 import random
 
