@@ -14,5 +14,5 @@ def sumOfN(n):
     return total
 
 # Main processing
-answer = sumOfN(10) # Call the function and ASSIGN the return value to result
+answer = sumOfN(10) # Call the function and ASSIGN the return value to answer
 print("The sum of the first 10 integers is %d" %answer)
