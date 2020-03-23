@@ -1,10 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: Dec 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
-# Purpose: A program to find the max of 3 values
-'''
+# Purpose: A program to find the maximum of 3 values
+
 
 # A function to find the largest of 3 numbers
 def maxOf3(x, y, z):
