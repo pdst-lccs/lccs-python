@@ -1,10 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to count (and display) the most frequently occurring words in a text
-'''
+
 import collections
 import plotly
 from plotly.graph_objs import Bar, Layout
