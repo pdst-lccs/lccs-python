@@ -13,7 +13,8 @@ def extractDigit(i, n):
        Digit positions are 76543210    
     """
 
-    if i < 0:
+    # Solution to Q4 i.e. fix for issue identified in Q3.
+    if i < 0: # <-- out of range error
         return -1
     
     return (n//pow(10, i))%10
