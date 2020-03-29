@@ -6,17 +6,6 @@
 
 from turtle import *
 
-'''
-# Draw a square without a loop
-forward(100)
-left(90)
-forward(100)
-left(90)
-forward(100)
-left(90)
-forward(100)
-'''
-
 # Draw a square using a loop
 for count in range(4):
    forward(100)
