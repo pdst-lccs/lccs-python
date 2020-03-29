@@ -1,10 +1,9 @@
-'''
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: Dec 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to demonstrate the use of parameters and arguments
-'''
+# See Experiment on pages 184 and 185
 
 def displayMessage(msg1, msg2):
     print(msg1)
