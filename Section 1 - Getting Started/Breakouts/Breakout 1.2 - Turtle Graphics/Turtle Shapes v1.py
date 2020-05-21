@@ -8,7 +8,7 @@
 from turtle import *
 
 forward(100) # move forward 100 units
-left(90)	    # turn left by 90 degrees
+left(90)     # turn left by 90 degrees
 forward(100)
 right(45)
 forward(50)
