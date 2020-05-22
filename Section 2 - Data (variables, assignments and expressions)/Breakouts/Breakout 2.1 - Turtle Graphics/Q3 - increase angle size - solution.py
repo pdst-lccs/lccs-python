@@ -12,12 +12,17 @@ color("red")
 angle = 90
 lineLength = 50
 forward(lineLength)
+angle = angle + 135 # increase angle by 135 before turn
 left(angle)
 lineLength = lineLength + 50
 forward(lineLength)
+angle = angle + 135 # increase angle by 135 before turn
 left(angle)
 lineLength = lineLength + 50
 forward(lineLength)
+angle = angle + 135 # increase angle by 135 before turn
 left(angle)
 lineLength = lineLength + 50
 forward(lineLength)
+
+
