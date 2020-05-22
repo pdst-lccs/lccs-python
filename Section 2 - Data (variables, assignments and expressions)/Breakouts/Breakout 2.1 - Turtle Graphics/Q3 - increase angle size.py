@@ -2,7 +2,7 @@
 # Date: May 2018
 # Author: Joe English, PDST
 # eMail: computerscience@pdst.ie
-# Purpose: Solution to Q3 page 53
+# Purpose: Q3 page 53
 
 from turtle import *
 
