@@ -16,7 +16,7 @@ def isPrime(numToCheck):
 
     # see if num is evenly divisible by any number up to num/2
     divisor = 2
-    while (divisor < numToCheck/2):
+    while (divisor <= numToCheck/2):
         if (numToCheck % divisor == 0):
             return False
         divisor = divisor+1
