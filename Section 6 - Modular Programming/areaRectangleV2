@@ -1,0 +1,16 @@
+# Event: LCCS Python Fundamental Skills Workshop
+# Date: Nov 2022
+# Author: Sinead Crotty, PDST
+# eMail: computerscience@pdst.ie
+# Purpose: A program to demonstrate the use of a function to calculate the area of a rectangle - V2
+
+def calcArea(length, width):
+    area = (length*width)
+    print("The area is ", area, "cm squared")
+
+
+length = int(input("Enter the length: "))
+
+width = int(input("Enter the width: "))
+
+calcArea(length, width)
