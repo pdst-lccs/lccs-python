@@ -1,4 +1,9 @@
-# Program to illustrate a simple if statement
+# Event: LCCS Python Fundamental Skills Workshop
+# Date: Nov 2022
+# Author: Sinead Crotty, PDST
+# eMail: computerscience@pdst.ie
+# Purpose: A program to demonstrate a simple if statement
+
 x = 5
 y = 4
 
