@@ -1,3 +1,9 @@
+# Event: LCCS Python Fundamental Skills Workshop
+# Date: Nov 2022
+# Author: Sinead Crotty, PDST
+# eMail: computerscience@pdst.ie
+# Purpose: A program to introduce Boolean expressions
+
 # Literal expressions (literals)
 print(1)
 print(1.23)
