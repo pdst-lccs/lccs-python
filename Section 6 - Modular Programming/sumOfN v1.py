@@ -14,6 +14,6 @@ def sumOfN(n):
     return total
 
 # Call the function
-sumOfN(10)
+sumOfN(5)
 
 # Explain why the program does not display any output
