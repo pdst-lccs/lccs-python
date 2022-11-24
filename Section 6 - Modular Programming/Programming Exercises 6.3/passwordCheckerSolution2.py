@@ -1,6 +1,6 @@
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: Dec 2018
-# Author: Joe English, PDST
+# Author: Sinead Crotty, PDST
 # eMail: computerscience@pdst.ie
 # Solution: Programming Exercises 6.3 Q4
 # Purpose: A program to validate a password
