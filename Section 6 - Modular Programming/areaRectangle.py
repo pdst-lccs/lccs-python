@@ -18,9 +18,9 @@ def calcArea(length, width):
     print("The area is ", area, "cm squared")
 
 
-length = int(input("Enter the length: "))
+l = int(input("Enter the length: "))
 
-width = int(input("Enter the width: "))
+w = int(input("Enter the width: "))
 
-calcArea(length, width)
+calcArea(l,w)
 """
