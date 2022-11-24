@@ -8,18 +8,13 @@ def sub(a, b):
     answer = a - b
     return answer
 
-answer1 = sub(4, 3) # 1
-print(answer1)
+print(sub(4, 3)) # 1
+print(sub(3, 4)) # -1
+print(sub(3, -4)) # 7
 
-answer2 = sub(3, 4) # -1
-print(answer2)
-
-answer3 = sub(3, -4) # 7
-print(answer3)
-
-#print( sub( 2, sub(3, 4))) # -> displays 3
-#print( sub( sub(2, 3), 4)) # -> displays -5
-#print( sub( 2, sub(3, sub(4, 5)))) # -> displays -2
+# print( sub( 2, sub(3, 4))) # -> displays 3
+# print( sub( sub(2, 3), 4)) # -> displays -5
+# print( sub( 2, sub(3, sub(4, 5)))) # -> displays -2
 
 # Predict what the print statements below would display
 # Now uncomment the lines and run the code
