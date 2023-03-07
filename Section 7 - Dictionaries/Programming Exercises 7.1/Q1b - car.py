@@ -1,6 +1,6 @@
-# Event: LCCS Python Fundamental Skills Workshop
-# Date: Dec 2018
-# Author: Joe English, PDST
+# Event: LCCS Python Fundamental Skills Evening Workshop
+# Date: Mar 2023
+# Author: PDST Computer Science
 # eMail: computerscience@pdst.ie
 # Purpose: Dictionary Programming Exercises 7.1
 # Q1(b) solution
