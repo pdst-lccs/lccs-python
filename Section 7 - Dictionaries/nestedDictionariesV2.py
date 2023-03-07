@@ -1,4 +1,4 @@
-#Irene Stone
+#LCCS Computer Science
 #Nov 2022
 #Nested Dictionaries
 
@@ -6,8 +6,6 @@
 
 class_list = []            #Empty list
 class_dict = { }           #Empty Dictionary
-
-
 
 numberOfStudents = int(input("How many students' names do you want to add? \n"))
 noOfResults = int(input("How many results do you want to add per students? \n"))
