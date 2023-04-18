@@ -10,4 +10,11 @@ d = {
 
 print(d['LOLL']) # syntax error: Key does not exist
 
-
+# Alternative way to add an element to a dictionary
+# d = {
+#     "OMG":"Oh My God!",
+#     "LOL":"Laugh Out Loud"
+#     }
+# 
+# d["IMHO"] = "In My Humble Opinion"
+# print(d)
