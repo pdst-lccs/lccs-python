@@ -1,0 +1,17 @@
+#PDST Computer Science
+#Apr 2022
+#Nested Dictionaries
+
+#Building a nested dictionary
+
+class_list = ["Mark", "Anne", "Joe", "Tony", "Neil", "Irene", "Sinéad"]
+
+class_dict = { }
+
+for i in range (len(class_list)):
+    class_dict[class_list[i]]= i  #creating a key in the dictionary using the name from the list
+    print(class_list[i])
+    print(class_dict)
+    
+print("---------------")
+print(class_dict)
