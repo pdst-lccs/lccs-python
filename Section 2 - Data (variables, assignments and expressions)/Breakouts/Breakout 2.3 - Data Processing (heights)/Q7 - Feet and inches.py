@@ -1,9 +1,9 @@
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
-# Author: Joe English, PDST
+# Author: Sinead Crotty, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to calculate the average height of 5 people
-# Version: 1.0 (This program contains deliberate errors)
+# Version: Q7 - this version displays the result in feet and inches as well as centimetres
 
 print("Average height calculator")
 print("=========================")
