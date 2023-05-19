@@ -1,3 +1,10 @@
+# Event: LCCS Python Fundamental Skills Workshop
+# Date: May 2023
+# Author: Computer Science, PDST
+# eMail: computerscience@pdst.ie
+# Purpose: Turtle Graphics - Further Activities
+# Python Manual, page 17, Further Activites - Exercise 3
+
 from turtle import * # import the turtle graphics library
 
 #draws a 50 x 50 square
