@@ -3,7 +3,7 @@
 # Author: Computer Science, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to calculate the average height of 5 people
-# Version: Question 4
+# Version: Q4 - this version allows decimal values for heights
 
 print("Average height calculator")
 print("=========================")
