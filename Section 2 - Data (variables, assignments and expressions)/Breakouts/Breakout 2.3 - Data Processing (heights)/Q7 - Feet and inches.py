@@ -1,6 +1,6 @@
 # Event: LCCS Python Fundamental Skills Workshop
 # Date: May 2018
-# Author: Sinead Crotty, PDST
+# Author: Computer Science, PDST
 # eMail: computerscience@pdst.ie
 # Purpose: A program to calculate the average height of 5 people
 # Version: Q7 - this version displays the result in feet and inches as well as centimetres
